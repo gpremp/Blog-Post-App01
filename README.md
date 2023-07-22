@@ -10,7 +10,7 @@ and provide Database url in application.properties file
 
 step 4
 open cmd in the server and blog-post-app folder
-run command "npm start" to run the both server and user-management-app
+run command "npm start" to run blog_post_app
 
 The blog-post-app will run on port no. 3000
 
