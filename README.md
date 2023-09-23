@@ -16,7 +16,7 @@ The blog-post-app will run on port no. 3000
 
 step 5
 open Blog-post-app in eclipse or intellijIdea and run the application
-The server will run on port no. 8080
+The server will run on port no. 8080.
 
 step 6
 open http://localhost:3000/ in your brower to run the app on brower.
